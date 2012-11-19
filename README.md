@@ -1,11 +1,11 @@
 <h3>Cs 184.1x Assignments</h3>
 <ul>
 	<li>
-		<h4>1. Simple Open GL Program</h4>
+		<h6>1. Simple Open GL Program</h6>
 		<p>Just to set up the enviorment</p>
 	</li>
 	<li>
-		<h4>2. Implementation Of Glulookat Method</h4>
+		<h6>2. Implementation Of Glulookat Method</h6>
 		<p>Implementing left(), up(), glulookat() </p>
 	</li>
 </ul>
