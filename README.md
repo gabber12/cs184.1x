@@ -1,7 +1,7 @@
 <h3>Cs 184.1x Assignments</h3>
 <ul>
 	<li>
-		<h4>1. Simple Open GL Program</h4><br />
+		<h4>1. Simple Open GL Program</h4>
 		<p>Just to set up the enviorment</p>
 	</li>
 	<li>
