@@ -1,11 +1,4 @@
 <h3>Cs 184.1x Assignments</h3>
-<h4>Setting up Enviorment for open gl - Ubuntu </h4>
-
-<p>sudo apt-get install freeglut3-dev glew-utils libglew1.6-dev libfreeimage-dev</p>
-<p>sudo apt-get install build-essential</p>
-<p>try add unistd.h to files</p>
-
-
 
 <ul>
 	<li>
@@ -18,5 +11,10 @@
 	</li>
 </ul>
 
+<h4>Setting up Enviorment for open gl - Ubuntu </h4>
+
+<p>sudo apt-get install freeglut3-dev glew-utils libglew1.6-dev libfreeimage-dev</p>
+<p>sudo apt-get install build-essential</p>
+<p>try add unistd.h to files</p>
 
 
